@@ -1,4 +1,7 @@
 ### 02.10.2022 (announcement Ondu)
+- We added **Ondu** to Google Search Console :)
+
+### 02.10.2022 (announcement Ondu)
 - We continue to build **Ondu**, our freelancer platform.
 
 ### 02.10.2022 (announcement Ondu)
