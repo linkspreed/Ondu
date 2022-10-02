@@ -1,4 +1,7 @@
 ### 02.10.2022 (announcement Ondu)
+- **Ondu** now uses all Cloudflare technology :)
+
+### 02.10.2022 (announcement Ondu)
 - We added **Ondu** to Google Search Console :)
 
 ### 02.10.2022 (announcement Ondu)
