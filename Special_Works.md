@@ -1,3 +1,6 @@
+### 03.10.2022 (announcement Ondu)
+- Now let's focus on **Ondu**'s code :)
+
 ### 02.10.2022 (announcement Ondu)
 - **Ondu** now uses all Cloudflare technology :)
 
