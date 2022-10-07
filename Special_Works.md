@@ -1,3 +1,6 @@
+### 07.10.2022 (announcement Ondu)
+- We keep working on **Ondu**'s code :)
+
 ### 03.10.2022 (announcement Ondu)
 - Now let's focus on **Ondu**'s code :)
 
