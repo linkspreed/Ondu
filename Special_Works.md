@@ -1,4 +1,7 @@
 ### 07.10.2022 (announcement Ondu)
+- We are now designing the official logo and icon for **Ondu**.
+
+### 07.10.2022 (announcement Ondu)
 - We keep working on **Ondu**'s code :)
 
 ### 03.10.2022 (announcement Ondu)
