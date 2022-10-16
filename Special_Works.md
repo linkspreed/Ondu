@@ -1,3 +1,6 @@
+### 16.10.2022 (announcement Ondu)
+- We will soon launch **Ondu**'s internal version 1.2 before we publish the platform.
+
 ### 07.10.2022 (announcement Ondu)
 - What do you think of **Ondu**'s new logo and icon?
 - Icon: https://user-images.githubusercontent.com/102324985/194636694-cf9c7388-3240-45e1-ab01-18fc4a8d5c02.png
