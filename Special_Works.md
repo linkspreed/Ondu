@@ -1,4 +1,4 @@
-### 28.10.2022 (announcement Linkspreed)
+### 28.10.2022 (announcement Ondu)
 - We're still working a little further on **Ondu**.
 
 ### 16.10.2022 (announcement Ondu)
