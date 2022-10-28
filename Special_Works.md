@@ -1,3 +1,6 @@
+### 28.10.2022 (announcement Linkspreed)
+- We're still working a little further on **Ondu**.
+
 ### 16.10.2022 (announcement Ondu)
 - **Ondu**'s development work is progressing relatively quickly. 😍🥳
 
